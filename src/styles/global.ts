@@ -1,3 +1,6 @@
+import {  createGlobalStyle  } from 'styled-components';
+
+export const GlobalStyle = createGlobalStyle`
 * {
   margin: 0;
   padding: 0;
@@ -13,5 +16,7 @@ body,
 input,
 button,
 textarea {
-  font: 600 18px Nunito, sans-serif;
+  font: 600 18px Nunito, sans-serif
+  ;
 }
+`;
