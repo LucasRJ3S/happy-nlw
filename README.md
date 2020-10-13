@@ -6,8 +6,8 @@
 </p>
 
 ## Menu
-- [Technologies]
-- [How to use]
+- Technologies
+- How to use
 
 ---
 
